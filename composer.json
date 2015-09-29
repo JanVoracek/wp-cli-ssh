@@ -1,5 +1,5 @@
 {
-	"name": "x-team/wp-cli-ssh",
+	"name": "janvoracek/wp-cli-ssh",
 	"version": "0.2.0",
 	"description": "Invoke WP-CLI on another server via SSH from local machine",
 	"homepage": "https://github.com/x-team/wp-cli-ssh",
